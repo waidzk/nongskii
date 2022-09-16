@@ -13,9 +13,9 @@ function Footer(props) {
                         <ul className="md:m-auto">
                             <h2 className="md:text-lg text-sm font-semibold leading-loose">Explore us</h2>
                             <div className="md:text-sm text-xs">
-                                <li><a href="#">Friends</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy policy</a></li>
+                                <li className="text-slate-300">Friends</li>
+                                <li className="text-slate-300">Terms & Conditions</li>
+                                <li className="text-slate-300">Privacy policy</li>
                             </div>
                         </ul>
                         <ul className="md:m-auto">
@@ -23,7 +23,7 @@ function Footer(props) {
                             <div className="md:text-sm text-xs">
                                 <li><a href="https://instagram.com/nongski_nsbk">@nongski_nsbk</a></li>
                                 <li><a href="mailto:nongski.nsbk@gmail.com">nongski.nsbk@gmail.com</a></li>
-                                <li><a href="https://wa.me/085773821645">0857-7382-1645</a></li>
+                                <li><a href="https://wa.me/6285773821645">0857-7382-1645</a></li>
                             </div>
                         </ul>
                     </div>

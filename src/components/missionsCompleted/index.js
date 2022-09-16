@@ -32,7 +32,7 @@ function MissionsCompleted() {
                     <p className="text-sm w-full nunito text-justify">Projek pertama yang sangat amat banyak kurangnya dan kaget saat disambut dengan formal oleh pihak yayasan padahal acara kami main - main. Tidak ada susunan acara, kepanitiaan, persiapan tapi acara berjalan dengan SUKSES!</p>
                 </div>
                 <div className="date px-2">
-                  <p className="text-xs text-slate-400 nunito">00/04/2022</p>
+                  <p className="text-xs text-slate-400 nunito">15/04/2022</p>
                 </div>
               </div>
             </div>
