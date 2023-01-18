@@ -1,0 +1,65 @@
+{
+    "message" : "hello world",
+    "missions" : [
+        {
+            "id" : "1",
+            "image" : "",
+            "image_url" : "/images/mission1.jpg",
+            "place_name" : "Yayasan Baitul Ummi",
+            "description" : "Projek pertama yang sangat amat banyak kurangnya dan kaget saat disambut dengan formal oleh pihak yayasan padahal acara kami main - main. Tidak ada susunan acara, kepanitiaan, persiapan tapi acara berjalan dengan SUKSES!",
+            "date" : "15/04/2022"
+        },
+        {
+            "id" : "2",
+            "image_url" : "/images/mission2.jpg",
+            "place_name" : "Kampung Pulo Bambu",
+            "description" : "Kampung pertama yang kami kunjungi, sangat berkesan dan sangat melelahkan tapi menyenangkan. Banyak hal yang dapat kita pelajari dan ambil hikmah-nya karena ini projek pertama kami di perkampungan.",
+            "date" : "31/07/2022"
+        },
+        {
+            "id" : "3",
+            "image_url" : "/images/mission3.jpg",
+            "place_name" : "Kampung Rambai",
+            "description" : "Kampung yang lumayan jauh dari tempat tinggal kami, cukup menyenangkan dan seperti biasa tidak ada susunan acara, kepanitiaan, dll. Tapi, tetap seru dan banyak hal yang bisa kita pelajari dari acara yang satu ini.",
+            "date" : "24/12/2022"
+        }
+    ],
+    "images_about_us" : [
+        {
+            "id" : "1",
+            "image_url" : "/images/gallery1.jpg"
+        },
+        {
+            "id" : "2",
+            "image_url" : "/images/gallery2.jpg"
+        },
+        {
+            "id" : "3",
+            "image_url" : "/images/gallery3.jpg"
+        },
+        {
+            "id" : "4",
+            "image_url" : "/images/gallery4.jpg"
+        },
+        {
+            "id" : "5",
+            "image_url" : "/images/gallery5.jpg"
+        },
+        {
+            "id" : "6",
+            "image_url" : "/images/gallery6.jpg"
+        },
+        {
+            "id" : "7",
+            "image_url" : "/images/gallery7.jpg"
+        },
+        {
+            "id" : "8",
+            "image_url" : "/images/gallery8.jpg"
+        },
+        {
+            "id" : "9",
+            "image_url" : "/images/gallery9.jpg"
+        }
+    ]
+}
