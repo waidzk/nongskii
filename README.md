@@ -1,2 +1,2 @@
 # Landing Page of Nongski
-domain : nongski.com(https://nongski.com/)
+domain : [nongski.com](https://nongski.com/)
