@@ -35,15 +35,15 @@
 // export default Footer;
 
 import React from "react";
-import instagram_icon from "../../assets/images/icons/instagram.svg"
-import message_icon from "../../assets/images/icons/message-circle.svg"
-import mail_icon from "../../assets/images/icons/mail.svg"
+import instagram_icon from "../../assets/images/icons/instagram.svg";
+import message_icon from "../../assets/images/icons/message-circle.svg";
+import mail_icon from "../../assets/images/icons/mail.svg";
 
 export default function Footer(props) {
   const { srcimg } = props;
   return (
-    <div className="flex w-full p-10 bg-white">
-      <div className="left-col w-1/2 flex flex-col items-center">
+    <div className="flex w-full py-10 px-10 lg:px-44 bg-white ">
+      <div className="left-col w-1/2 flex flex-col items-start">
         <img src={srcimg} className="w-32" alt="logo nongski" />
         <div className="ml-4 -mt-10">
           <p className="font-semibold">
@@ -53,17 +53,17 @@ export default function Footer(props) {
           <p className="text-slate-300">Developed by Waidz</p>
         </div>
       </div>
-      <div className="right-col flex flex-col justify-center items-center w-1/2">
+      <div className="right-col flex flex-col justify-center items-end w-1/2">
         <h2 className="text-lg font-bold text-slate-300 mb-2">Social</h2>
         <div className="grid grid-flow-col gap-1">
           <a href="https://instagram.com/nongski_nsbk">
-            <img src={instagram_icon} alt="icon"/>
+            <img src={instagram_icon} alt="icon" />
           </a>
           <a href="https://wa.me/6285773821645">
-            <img src={message_icon} alt="icon"/>
+            <img src={message_icon} alt="icon" />
           </a>
           <a href="mailto:nongski.nsbk@gmail.com">
-            <img src={mail_icon} alt="icon"/>
+            <img src={mail_icon} alt="icon" />
           </a>
         </div>
       </div>

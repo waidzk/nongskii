@@ -34,7 +34,7 @@ function AboutUs() {
   const { images_about_us } = data_mission_completed;
 
   return (
-    <div id="about-us" className="aboutUS">
+    <div id="about-us" className="aboutUS mb-20">
       <div className="title text-center mt-5 -mb-10 p-2">
         <h1
           data-aos="fade-up"
@@ -58,7 +58,7 @@ function AboutUs() {
               </SplideSlide>
             ))}
         </Splide>
-        <div className="flex md:flex-row flex-col md:items-center md:w-8/12 -mt-10 px-10 w-full">
+        <div className="flex md:flex-row flex-col md:items-center md:w-[800px] -mt-10 px-10 w-full">
           <div className="md:text-right md:m-2 md:p-2 mb-1">
             <h2
               data-aos="fade-up"
